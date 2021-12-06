@@ -1,3 +1,16 @@
 body {
-  background-color: pink;
+  background-color: #F414CB
 }
+
+h3 {
+  color: white;
+  font-size: 200%;
+  background-color: purple;
+  letter-spacing: 3px;
+}
+
+p {
+color: white;
+font-size: 150%;
+}
+
